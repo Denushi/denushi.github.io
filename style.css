@@ -1,0 +1,75 @@
+html
+{
+    background-color:#99ccff;
+}
+
+h1
+{
+    border-bottom:solid black 2px;
+    font-family:Monotype;
+    font-style:italic;
+}
+
+img
+{
+    float:right;
+    width:200px;
+    height:200px;
+    margin-top:-23px;
+    margin-right:-10;
+    position:relative;
+    
+}
+
+#category
+{
+    font-weight:bold;
+}
+
+span
+{
+    font-weight:bold;
+}
+
+#left
+{
+    float: left;
+    position:relative;
+    margin-left:300px;
+}
+
+#right
+{
+    float: right;
+    position:absolute;
+    margin-right:300px;
+}
+
+.head
+{
+    vertical-align:top;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+td
+{
+    padding:30px;
+}
+
+table
+{
+    float:left;
+    margin-left:200px;
+}
+
+.description
+{
+    border-left: dashed gray 1px;
+}
+
+bio
+{
+    float:left;
+}
+
